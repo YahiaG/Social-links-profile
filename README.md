@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./Screenshot.png)
 
 ### Links
 
 - Solution URL: (https://github.com/YahiaG/Social-links-profile)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://yahiag.github.io/Social-links-profile/)
 
 ## My process
 
